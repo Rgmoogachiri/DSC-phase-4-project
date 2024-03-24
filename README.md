@@ -86,10 +86,7 @@ The models performance are:
 
 More information can be found in the description below.
 
-### movie.ipynb
-
-
-
+[Jupyter Notebook](movie.ipynb)
 
 ## Recommendations
 
